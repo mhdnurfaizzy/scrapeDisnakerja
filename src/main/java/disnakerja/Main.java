@@ -19,7 +19,7 @@ import java.util.Set;
 public class Main {
     public static void main(String[] args) throws InterruptedException {
         // Specify the path to your extension .crx file
-        String extensionPath = "C:\\Users\\HOME\\IdeaProjects\\scrapeDisnakerja\\GIGHMMPIOBKLFEPJOCNAMGKKBIGLIDOM_6_3_0_0.crx";
+        String extensionPath = "C:\\Users\\HOME\\IdeaProjects\\scrapingDisnakerja\\GIGHMMPIOBKLFEPJOCNAMGKKBIGLIDOM_6_3_0_0.crx";
 
         // Initialize ChromeOptions
         ChromeOptions options = new ChromeOptions();
